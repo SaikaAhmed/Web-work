@@ -1,0 +1,32 @@
+body {
+	background:grey;
+	color: rgb(0,255,255);
+}
+
+h1{
+	text-align: center;
+	color: pink;
+}
+p{
+	border: 5px double black;
+	padding: 10px;
+	margin: auto;
+	text-indent: 50px;
+	letter-spacing: 3px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	border: 1px solid black;
+    padding: 5px;
+    background: red;
+}
+a:hover{
+	color: white;
+	background:green;
+
+	
+}
